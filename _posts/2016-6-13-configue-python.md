@@ -3,7 +3,8 @@ layout: post
 title: How to configure the ecoPython system
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# my
+###   my
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
