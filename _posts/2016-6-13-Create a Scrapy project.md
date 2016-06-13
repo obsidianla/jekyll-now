@@ -13,5 +13,20 @@
   |    |    |- crawl_spider.py
   |- scrapy.cfg
   
-2. 
+2. define the schema  
+    Change items.py like this:
+    
+  import scrapy
+  
+  class MyCrawlerItem(scrapy.Item):
+      # define the fields for your item here like:
+      name = scrapy.Field()
+      title = scrapy.Field()  # title
+      url = scrapy.Field()    #url
+      summary = scrapy.Field()# abstract
+      pass
+3. Write the code of analyzing the webpage
+  Under my_crawler/spiders, create a file named craw_spider.py
+
+
 
