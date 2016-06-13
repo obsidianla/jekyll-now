@@ -4,7 +4,8 @@ title: How to configure the ecoPython system
 ---
 
 # my
-###   my
+## my
+### my nme
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
