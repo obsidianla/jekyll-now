@@ -5,6 +5,7 @@ date:   2017-07-28
 categories: Python
 ---
 1. Download Anaconda
+
 Go to Anaconda download website <https://www.continuum.io/downloads>.
 Choose Python 3.6 version for Windows, and click DOWNLOAD button
 
