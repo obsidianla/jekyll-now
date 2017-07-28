@@ -5,8 +5,14 @@ date:   2017-07-28
 categories: Python
 ---
 1. Download Anaconda
+Go to Anaconda download website <https://www.continuum.io/downloads>.
+Choose Python 3.6 version for Windows, and click DOWNLOAD button
+
+2. Installing Anaconda following
+<https://docs.continuum.io/anaconda/install/windows>
+
 ```
-curl -O https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86_64.exe
+
 ```
 ### You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
