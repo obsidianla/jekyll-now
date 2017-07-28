@@ -28,7 +28,7 @@ Choose Python 3.6 version for macOS, and click DOWNLOAD button
 
 <https://docs.continuum.io/anaconda/install/mac-os>
 
-### Uisng the command-line installer
+### Using the command-line installer
 
 1. Download Anaconda
 
