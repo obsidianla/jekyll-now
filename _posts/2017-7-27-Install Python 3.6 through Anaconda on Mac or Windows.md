@@ -39,9 +39,9 @@ There are two methods for installing.
 
    Open the Terminal.app and then enter the following:
 
-```
-bash ~/Downloads/Anaconda3-4.4.0-MacOSX-x86_64.sh
-```
+   ```
+   bash ~/Downloads/Anaconda3-4.4.0-MacOSX-x86_64.sh
+   ```
 
    NOTE: Include the bash command regardless of whether you are actually using the Bash shell.
 
