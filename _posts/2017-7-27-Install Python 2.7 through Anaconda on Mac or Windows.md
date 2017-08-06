@@ -33,9 +33,9 @@ There are two methods for installing.
 1. Download Anaconda
 
    Go to Anaconda download website <https://www.continuum.io/downloads>.
-   Choose Python 3.6 version for macOS, and click DOWNLOAD button
+   Choose Python 2.7 version for macOS, and click DOWNLOAD button
 
-2. Install for Python 3.6:
+2. Install for Python 2.7:
 
    Open the Terminal.app and then enter the following:
 
