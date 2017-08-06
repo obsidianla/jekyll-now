@@ -8,7 +8,7 @@ categories: Python
 1. Download Anaconda
 
    Go to Anaconda download website <https://www.continuum.io/downloads>.
-   Choose Python 3.6 version for Windows, and click DOWNLOAD button
+   Choose Python 2.7 version for Windows, and click DOWNLOAD button
 
 2. Installing Anaconda following
 
@@ -22,7 +22,7 @@ There are two methods for installing.
 1. Download Anaconda
 
    Go to Anaconda download website <https://www.continuum.io/downloads>.
-   Choose Python 3.6 version for macOS, and click DOWNLOAD button
+   Choose Python 2.7 version for macOS, and click DOWNLOAD button
 
   1. Installing Anaconda following
 
